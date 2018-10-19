@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-# Communation Apps.
+# Communication Apps.
 brew cask install slack
-brew cask install skype
 brew cask install whatsapp
+
 
 # Browsers
 brew cask install google-chrome
@@ -11,17 +11,21 @@ brew cask install google-chrome-canary
 brew cask install firefox
 
 # Music / Video
-brew cask install amazon-music
 brew cask install vlc
 
 # Utlities
 brew cask install coconutbattery
 brew cask install lastpass
-brew cask install nordvpn
 brew cask install keybase
 brew cask install dropbox
 brew cask install tunnelblick
 brew cask install arq
+brew cask install hazeover
+brew cask install micro-snitch
+brew cask install flux
+brew cask install transmission
+brew cask install sketch
+brew cask install calibre 
 
 # Development stuff.
 brew cask install iterm2
@@ -33,3 +37,5 @@ brew cask install visual-studio-code
 brew cask install charles
 brew cask install Docker
 brew cask install awscli
+brew cask instlal graphiql
+
